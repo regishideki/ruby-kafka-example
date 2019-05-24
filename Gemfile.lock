@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.7.2)
+    ffi (1.11.1)
+    mini_portile2 (2.4.0)
+    rake (12.3.2)
+    rdkafka (0.5.0)
+      ffi (~> 1.9)
+      mini_portile2 (~> 2.1)
+      rake (~> 12.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  rdkafka
+
+BUNDLED WITH
+   1.16.2
